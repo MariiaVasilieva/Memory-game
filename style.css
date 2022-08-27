@@ -15,6 +15,9 @@ body{
     font-weight:600;
     cursor:pointer;
 }
+h1 {
+    margin-bottom: 40px;
+}
 section {
     display: grid;
     grid-template-columns: repeat(4,8rem);
